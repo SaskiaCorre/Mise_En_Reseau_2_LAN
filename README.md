@@ -1,12 +1,12 @@
 # Cisco Packet Tracer – DHCP centralisé multi-sites
 
-#Contexte
+# Contexte
 Ce projet est la suite directe de la Partie 1.  
 L’entreprise souhaite faciliter l’ajout de nouveaux équipements sur le réseau en automatisant l’attribution des adresses IP.
 
 Un serveur DHCP centralisé est mis en place afin de desservir deux sous-réseaux distincts.
 
-# Objectifs pédagogiques
+# Objectifs 
 - Mettre en place un serveur DHCP
 - Créer plusieurs pools d’adresses DHCP
 - Comprendre et configurer le DHCP Relay (IP Helper)
@@ -69,6 +69,3 @@ Cette configuration permet au routeur de relayer les requêtes DHCP vers le serv
 
 # Conclusion
 Cette seconde partie démontre la mise en place d’une solution DHCP centralisée adaptée à une PME, améliorant la flexibilité et la maintenabilité du réseau tout en restant simple et robuste.
-
-Elle met en évidence des notions essentielles telles que le DHCP Relay et la gestion multi-réseaux, attendues pour un technicien systèmes et réseaux junior.
-
